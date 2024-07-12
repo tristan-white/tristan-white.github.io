@@ -7,11 +7,11 @@ permalink: cards
 > **bonanza** [b*uh*-**nan**-n*uh*]: a source of great and sudden wealth or luck
 {: .prompt-info}
 
-Over the past couple years I began delving into the credit card points game, and let me tell you: **it got wild**.
+Over the past couple years I began diving into the credit card points game, and let me tell you: **it got wild**.
 
 *How wild,* you ask?
 
-Since I began my credit card journey in May 2022, I've saved **$6,000** and am projected to save **$13,000** over the next 3 years.
+Since I began my credit card journey in May 2022, I've saved **$6,000** and am projected to save **$13,000** over the next 3 years.[^1]
 
 To quote my friends:
 - *Tristan, you have a problem.*
@@ -20,7 +20,29 @@ To quote my friends:
 
 - *How is this legal?*
 
-<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="/assets/graphs/cards.html" height="525" width="100%"></iframe
+<label for="number1">Number 1:</label>
+<input type="number" id="number1">
+<br>
+<label for="number2">Number 2:</label>
+<input type="number" id="number2">
+<br>
+<button onclick="mult()">Multiply</button>
+<div id="result"></div>
+<br>
+<br>
+
+<script>
+    function mult() {
+        var num1 = document.getElementById('number1').value;
+        var num2 = document.getElementById('number2').value;
+        var f1 = parseFloat(num1);
+        var f2 = parseFloat(num2);
+        var result = f1 * f2;
+        document.getElementById('result').innerText = 'Result : ' + result;
+    }
+</script>
+
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="/assets/graphs/cards.html" height="525" width="100%"></iframe>
 
 ## Military Perks
 While the perks afforded by the credit cards in this post are certainly decent if used optimally, the benefits of these cards goes from "hm, not bad" to "gee whiz this can't be legal" if you're in the military and can get the annual fees waived.
@@ -72,19 +94,29 @@ While the perks afforded by the credit cards in this post are certainly decent i
 
 ---
 
+![](https://icm.aexp-static.com/acquisition/card-art/NUS000000329_480x304_straight_withname.png){: .right}
+
+### [Hilton Honors Amex<br>Aspire Card](#hilton-honors-amexaspire-card)
+- Annual Free Night
+- $400 Hilton Resort Credit
+- $200 Flight Credit / Year
+- 14x points on Hotels and Resorts
+- 7x points on Select Travel
+- 7x points on Dining
+- 3x points on Other Purchases
+
+---
+
 ![](/assets/images/sapphire_reserve_card.png){: .right}
 
 ### [Chase Sapphire<br>Reserve Card](https://www.referyourchasecard.com/19o/PESUKFVCE7)
 - Massive welcome point bonus
-- $300 Travel Credit
-- Priority Pass Select Membership
-- Sapphire Lounge Access
-- Global Entry, TSA PreCheck or NEXUS fee credit
-- 10x points on Hotels & Car Rentals Purchased through Chase Travel
+- $300 Travel Credit / Year
+- Airport Lounge Access
+- Global Entry or TSA PreCheck Fee
+- 10x points on Hotels & Car Rentals
 - 3x points on Dining purchases
-- Many Travel Protection Benefits
-- Extended Warrant Protection
-- Purchase Protection
+- Travel Protection/Insurance
 - and more
 
 ---
@@ -97,3 +129,27 @@ While the perks afforded by the credit cards in this post are certainly decent i
 - 5x points on Hotels & Car Rentals Purchased through Chase Travel
 - 3x points on Dining purchases
 - and more
+
+<br>
+
+---
+
+![](https://www.biltrewards.com/assets/bilt-card-theo.jpg){: .right w="480"}
+
+- No annual fee!
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+---
+
+[^1]: To see how these numbers were calculated, see [this program](https://github.com/tristan-white/chirpy-starter/blob/main/assets/graphs/credit_cards.py) I wrote.

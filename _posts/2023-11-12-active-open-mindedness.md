@@ -1,8 +1,7 @@
 ---
 layout: post
-title: active open-mindedness
+title: Active Open-Mindedness
 date: 2023-11-12
-image: https://miro.medium.com/v2/resize:fit:720/format:webp/0*NB3skEm41z1AtLFT
 nav-menu: true
 ---
 
