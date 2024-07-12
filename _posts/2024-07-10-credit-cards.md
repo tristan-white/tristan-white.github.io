@@ -23,8 +23,10 @@ To quote my friends:
 <label for="number1">Number 1:</label>
 <input type="number" id="number1">
 <br>
+<br>
 <label for="number2">Number 2:</label>
 <input type="number" id="number2">
+<br>
 <br>
 <button onclick="mult()">Multiply</button>
 <div id="result"></div>

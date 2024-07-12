@@ -2,7 +2,7 @@
 layout: post
 title: Active Open-Mindedness
 date: 2023-11-12
-nav-menu: true
+uav-menu: true
 ---
 
 I’ve been reading *Range: Why Generalists Triumph in a Specialized World* by David Epstein and enjoying much more than I thought I would when I read the title. It’s about the importance of broad knowledge over a wide range of domains.
