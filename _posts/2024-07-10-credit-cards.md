@@ -14,17 +14,7 @@ permalink: cards
 
 Over the past couple years I began diving into the credit card points game, and let me tell you: **it got wild**.
 
-*How wild,* you ask?
-
-Since I began my credit card journey in May 2022, I've saved **$6,000** and am projected to save **$13,000** over the next 3 years.[^1]
-
-To quote my friends:
-- *Tristan, you have a problem.*
-
-- *This needs to stop.*
-
-- *How is this legal?*
-
+<!--
 <label for="number1">Number 1:</label>
 <input type="number" id="number1">
 <br>
@@ -48,6 +38,7 @@ To quote my friends:
         document.getElementById('result').innerText = 'Result : ' + result;
     }
 </script>
+-->
 
 <iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="/assets/graphs/cards.html" height="525" width="100%"></iframe>
 
