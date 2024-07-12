@@ -12,7 +12,7 @@ I started learning about hardware hacking about a year ago. One topic I've found
 ## Outline
 
 1. Is the firmware available online? Sometimes you can simply download the firmware from the manufacturer’s website. Google the name of the router to check.
-    1. Additionally, it’s helpful to know that if the router has an FCC ID printed on the label, you can look up the ID on [fccid.io](http://fccid.io) to find lot of info about the router. Sometimes you can even find pictures of the internal chips on the PCB (Printed Circuit Board).
+    1. Additionally, it’s helpful to know that if the router has an FCC ID printed on the label, you can look up the ID on [fccid.io](https://fccid.io) to find lot of info about the router. Sometimes you can even find pictures of the internal chips on the PCB (Printed Circuit Board).
 2. Take apart the router
     1. Screws may be hidden under labels or rubber feet on the router.
 3. Determine if the PCB has a UART header; using UART to extract firmware will be easier than other potential options (JTAG, SPI flash, NAND flash, etc). 

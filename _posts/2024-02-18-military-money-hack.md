@@ -13,8 +13,8 @@ There’s already plenty of good credit card guides[^1] out there so my goal for
 <div id="benefits_sankey"></div>
 
 <script src='https://cdn.plot.ly/plotly-2.29.1.min.js'></script>
-<script src='./assets/js/sankeyfier.js'></script>
-<script src='./assets/js/card_benefits.js'></script>
+<script src='/assets/js/sankeyfier.js'></script>
+<script src='/assets/js/card_benefits.js'></script>
 
 ## A Lesser Known Secret
 Most military folks I talk to know about the majority of the credit card hacks that will save them money, but most don't know about this one:
@@ -29,7 +29,7 @@ Theoretically, there's no limit. Right now I have two platinum cards, but I saw 
 
 ---
 
-<script src='./assets/js/card_benefits_2plat.js'></script>
+<script src='/assets/js/card_benefits_2plat.js'></script>
 
 [^1]: The [militarymoneymanual.com](https://militarymoneymanual.com/) is one of the best resources for military members looking to get the absolute most out of credits cards. There's lots of financial info on the site - here's an article with an overview of credit card benefits specifically: [link](https://militarymoneymanual.com/best-credit-cards-military/)
 [^2]: [32 Credit Cards in My Wallet 2024](https://militarymoneymanual.com/current-credit-cards/)
