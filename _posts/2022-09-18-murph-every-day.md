@@ -2,15 +2,15 @@
 layout: post
 title: Murph Every Day
 description: I did a murph each day for a month.
-image: assets/images/murph-tally.jpeg
 ---
+
 The [Murph](https://en.wikipedia.org/wiki/Michael_P._Murphy#Murph_workout) Workout:
-<br/>(all completed with a 20 lb weighted vest)
 - 1 Mile Run
 - 100 pull ups
 - 200 push ups
 - 300 squats
 - 1 Mile Run
+- (all completed with a 20 lb weighted vest)
 
 One day last year I decided to do a murph (without the vest) and I hated it. A friend showed me a [video of a guy on YouTube](https://www.youtube.com/@jimbobroski4884/videos) who did a murph every day for a year. I really admired the idea, but knew I couldn't do something like that. At that point, I had only done one murph with a weighted vest in my life, and it killed me and took me over an hour. So I never entertained the thought of doing any kind of consecutive day full-murph challenge.
 

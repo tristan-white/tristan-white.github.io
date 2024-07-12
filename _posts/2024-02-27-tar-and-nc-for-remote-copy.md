@@ -4,7 +4,8 @@ title: Tar and Netcat
 description: How to use tar and nc to dump a file system from embedded devices.
 category: computer
 ---
-<a href="https://xkcd.com/1168"><img src="https://imgs.xkcd.com/comics/tar.png" title="We've all been there." /></a>
+
+![xkcd]("https://imgs.xkcd.com/comics/tar.png")
 
 Having a copy of binaries from the target system is important in vulnerability research.
 
