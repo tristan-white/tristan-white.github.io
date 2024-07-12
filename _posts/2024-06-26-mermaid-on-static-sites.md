@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mermaid for Jekyll
-description: How to use Mermaid graphs in statically generated sites.
+description: How to use Mermaid graphs in statically generated sites. 🧜‍♀️
 mermaid: true
 ---
 

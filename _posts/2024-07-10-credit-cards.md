@@ -1,6 +1,6 @@
 ---
-title: Credit Card Bonanza 💳
-description: Extreme travel hacking for fun and profit.
+title: Credit Card Bonanza
+description: Extreme travel hacking for fun and profit 💳💸
 permalink: cards
 ---
 
@@ -96,9 +96,23 @@ While the perks afforded by the credit cards in this post are certainly decent i
 
 ---
 
+![Bonvoy Brilliant](https://icm.aexp-static.com/acquisition/card-art/NUS000000313_480x304_straight_withname.png){: .right}
+
+### [American Express<br>Bonvoy Brilliant](#american-expressbonvoy-brilliant)
+- Annual Free Night
+- [Platinum Elite Status](https://www.marriott.com/loyalty/member-benefits/platinum.mi)
+- $25 Dining Credit / Month
+- Marriot
+<br>
+<br>
+<br>
+
+---
+
 ![](https://icm.aexp-static.com/acquisition/card-art/NUS000000329_480x304_straight_withname.png){: .right}
 
 ### [Hilton Honors Amex<br>Aspire Card](#hilton-honors-amexaspire-card)
+- [Diamond Status](https://www.hilton.com/en/hilton-honors/member-benefits/) (Highest)
 - Annual Free Night
 - $400 Hilton Resort Credit
 - $200 Flight Credit / Year
