@@ -163,7 +163,7 @@ To simplify it all, I made a tool that generates a PDF that's custom-tailored to
 
 ---
 
-### [American Express Bonvoy Brilliant Card](#american-express-bonvoy-brilliant)
+### [American Express Bonvoy Brilliant Card](#american-express-bonvoy-brilliant-card)
 
 ![Bonvoy Brilliant](https://icm.aexp-static.com/acquisition/card-art/NUS000000313_480x304_straight_withname.png){: .right}
 
