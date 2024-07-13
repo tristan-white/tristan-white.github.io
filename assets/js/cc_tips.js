@@ -69,6 +69,6 @@ async function genPDF() {
 
     // doc.beginFormObject(100, 100, pageWidth/2, pageHeight/2)
 
-    doc.output("pdfobjectnewwindow");
-    // doc.save("a4.pdf");
+    // doc.output("pdfobjectnewwindow");
+    doc.save("a4.pdf");
 }
