@@ -70,6 +70,7 @@ async function genPDF() {
     // doc.beginFormObject(100, 100, pageWidth/2, pageHeight/2)
 
     // doc.output("pdfobjectnewwindow");
-    doc.output("dataurlnewwindow");
+    const pdfUrl = doc.output("dataurl");
+    window.open(pdfUrl)
     // doc.save("a4.pdf");
 }
