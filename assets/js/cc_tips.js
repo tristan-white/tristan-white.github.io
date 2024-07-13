@@ -32,7 +32,7 @@ async function genPDF() {
     // Calculate text dimensions to center it
     // console.log(doc.getFontList());
     doc.setTextColor("#ffffff")
-    doc.setFont("calibri", "italic", 500)
+    doc.setFont("helvetica", "italic", 500)
     // doc.setFontSize(30)
     const text = "Adventure Awaits."
     const textWidth = doc.getTextWidth(text);
@@ -70,5 +70,6 @@ async function genPDF() {
     // doc.beginFormObject(100, 100, pageWidth/2, pageHeight/2)
 
     // doc.output("pdfobjectnewwindow");
-    doc.save("a4.pdf");
+    doc.output("dataurlnewwindow");
+    // doc.save("a4.pdf");
 }

@@ -58,6 +58,9 @@ If you're new travel hacking or credit card points game, all this talk of card p
 
 To simplify it all, I made a tool that generates a PDF that's custom-tailored to your needs that gives simple, consolidated tips on how to save money with credit cards. To receive a personalized report, fill in the form below.
 
+> Note: This PDF generation tool is not yet supported on mobile.
+{: .prompt-warning}
+
 **Name:**
 <br>
 <input type="text">
