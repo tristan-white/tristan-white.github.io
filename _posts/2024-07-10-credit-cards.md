@@ -48,7 +48,7 @@ Naturally, at some point I began looking into credit card "deals" to see if ther
 
 Short answer: **Yes**
 
-Longer answer: [**The Amex Platinum Card**](#american-expressplatinum-card) is amazing.
+Longer answer: [**The Amex Platinum Card**](#american-express-platinum-card) is amazing.
 
 Longest answer: If you're in the military, the benefits you stand to leverage from credit cards are near endless.
 
@@ -145,7 +145,7 @@ To simplify it all, I made a tool that generates a PDF that's custom-tailored to
 
 ---
 
-### [American Express Green Card](#american-expressgreen-card)
+### [American Express Green Card](#american-express-green-card)
 
 ![](https://icm.aexp-static.com/acquisition/card-art/NUS000000274_480x304_straight_withname.png){: .right}
 
@@ -163,7 +163,7 @@ To simplify it all, I made a tool that generates a PDF that's custom-tailored to
 
 ---
 
-### [American Express Bonvoy Brilliant Card](#american-expressbonvoy-brilliant)
+### [American Express Bonvoy Brilliant Card](#american-express-bonvoy-brilliant)
 
 ![Bonvoy Brilliant](https://icm.aexp-static.com/acquisition/card-art/NUS000000313_480x304_straight_withname.png){: .right}
 
@@ -181,7 +181,7 @@ To simplify it all, I made a tool that generates a PDF that's custom-tailored to
 
 ---
 
-### [Hilton Honors American Express Aspire Card](#hilton-honors-amexaspire-card)
+### [Hilton Honors American Express Aspire Card](#hilton-honors-american-express-aspire-card)
 
 ![](https://icm.aexp-static.com/acquisition/card-art/NUS000000329_480x304_straight_withname.png){: .right}
 
