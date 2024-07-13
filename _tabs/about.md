@@ -11,10 +11,10 @@ order: 4
 - 1 wing 9
 
 ## Right Now I Am:
-- Reading a [book](https://tristanwhite.me/books)
-- Working on the [OSCP](https://www.offsec.com/courses/pen-200/) cert
-- [Training](https://www.strava.com/athletes/tristanwhite) to a run a 3.5 hr marathon
-- Working as a [Cyber Warfare Engineer](https://youtu.be/k_z_K8a4tuM?si=ixGbbrxtarS3bETN) in the Navy
+- Reading a [book](https://tristanwhite.me/books) 📚
+- Working on the [OSCP](https://www.offsec.com/courses/pen-200/) cert 👨‍💻
+- [Training](https://www.strava.com/athletes/tristanwhite) to a run a 3.5 hr marathon 🏃‍♂️
+- Working as a [Cyber Warfare Engineer](https://youtu.be/k_z_K8a4tuM?si=ixGbbrxtarS3bETN) in the Navy 🧙‍♂️
 
 ## FAQs
 - Why'd you join the Navy?

@@ -14,7 +14,7 @@ The [Murph](https://en.wikipedia.org/wiki/Michael_P._Murphy#Murph_workout) Worko
 
 One day last year I decided to do a murph (without the vest) and I hated it. A friend showed me a [video of a guy on YouTube](https://www.youtube.com/@jimbobroski4884/videos) who did a murph every day for a year. I really admired the idea, but knew I couldn't do something like that. At that point, I had only done one murph with a weighted vest in my life, and it killed me and took me over an hour. So I never entertained the thought of doing any kind of consecutive day full-murph challenge.
 
-But last summer I started doing some murphs everyday without the vest. After doing that for a bit, I started doing one every so often with a vest\*. And then I said, why not try to do this for 30 days? Decided to post my progress here to keep myself accountable. I didn't end up hitting a murph every single day, but I'm happy with my progress.
+But last summer I started doing some murphs everyday without the vest. After doing that for a bit, I started doing one every so often with a vest\*. And then I said, why not try to do this for 30 days? I decided to post my progress here to keep myself accountable. I didn't end up hitting a murph every single day, but I'm happy with my progress.
 
 |Index|Date|Time|Notes|
 |-----|----|----|-----|

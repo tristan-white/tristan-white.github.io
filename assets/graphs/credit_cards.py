@@ -58,7 +58,7 @@ def get_bar_graph(cards: list[Card], years: int):
     # create dataframe (list of dicts)
     data = []
     plat_count = 0
-    for i in range(years):
+    for i in range(1, years):
         # create 2 more platinum cards each year
         cards.append(Platinum(f"Plat{plat_count}", annual_perks=plat_annual_perks, intro_bonus=250))
         plat_count += 1
@@ -70,7 +70,7 @@ def get_bar_graph(cards: list[Card], years: int):
                 "Source": c.name,
                 "Value from Card ($)": c.yearly_value(),
             }
-            if i == 0:
+            if i == 1:
                 datum["Value from Card ($)"] += c.intro_bonus
             data.append(datum)
     df = pd.DataFrame(data)
