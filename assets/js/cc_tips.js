@@ -1,4 +1,3 @@
-
 const imageUrlToBase64 = async (url) => {
     const data = await fetch(url);
     const blob = await data.blob();
@@ -20,19 +19,16 @@ async function genPDF() {
     const { jsPDF } = window.jspdf;
     const doc = new jsPDF();
 
-    const obj = {
-        align: 'center' // or any other value you want to assign
-    };
-
     const pageWidth = doc.internal.pageSize.getWidth();
     const pageHeight = doc.internal.pageSize.getHeight();
 
+    // Page 1
     var airplaneImg = await imageUrlToBase64('https://images.unsplash.com/photo-1500835556837-99ac94a94552?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');
 
     // Calculate text dimensions to center it
     // console.log(doc.getFontList());
     doc.setTextColor("#ffffff")
-    doc.setFont("helvetica", "italic", 500)
+    doc.setFont("Lora-VariableFont_wght")
     // doc.setFontSize(30)
     const text = "Adventure Awaits."
     const textWidth = doc.getTextWidth(text);
@@ -44,6 +40,11 @@ async function genPDF() {
     doc.addImage(airplaneImg, 0, 0, pageWidth, pageHeight);
     doc.text(text, x, y);
 
+    const advisee_name = document.getElementById("myInput").value;
+
+    doc.text(advisee_name, x, y+10)
+
+    // Page 2
     doc.addPage()
 
     var parisImg = await imageUrlToBase64('https://images.unsplash.com/photo-1549144511-f099e773c147?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');
@@ -69,8 +70,11 @@ async function genPDF() {
 
     // doc.beginFormObject(100, 100, pageWidth/2, pageHeight/2)
 
-    // doc.output("pdfobjectnewwindow");
-    const pdfUrl = doc.output("dataurl");
-    window.open(pdfUrl)
+    doc.output("pdfobjectnewwindow");
+    // const pdfUrl = doc.output("bloburl");
+    // window.open(pdfUrl)
     // doc.save("a4.pdf");
+
+    window.open(pdfUrl, '_blank').focus();
 }
+

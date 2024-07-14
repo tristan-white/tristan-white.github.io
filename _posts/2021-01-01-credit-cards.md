@@ -20,22 +20,6 @@ Since I began researching and opening credit cards a bit over two years ago, I'v
 
 If I myself were reading this article two years ago and saw those numbers, I'd call BS. So let's break down those numbers and see how this possible.
 
-## Military Benefits
-
-While the perks afforded by the credit cards in this post are certainly decent if used optimally, the benefits of these cards goes from "hm, I think these benefits may be worth the annual fee" to "gee whiz how is this possible" if you're in the military; this is all because the **annual fees for many credit cards are waived for military members**. This is due to the [Military Lending Act](https://ncua.gov/regulation-supervision/manuals-guides/federal-consumer-financial-protection-guide/compliance-management/lending-regulations/military-lending-act-mla) (MLA) and the [Servicemembers Civil Relief Act](https://www.militaryonesource.mil/financial-legal/personal-finance/servicemembers-civil-relief-act/) (SCRA). 
-
-That's right - active duty, or national guard and reserves on 30 day active duty orders (and their military spouses!) can open top tier credit cards such as the [Amex Platinum](#american-express-platinum-card), [Amex Gold](#american-express-gold-card), [Chase Sapphire Reserve](#chase-sapphire-reserve-card), and the [Chase Sapphire Preffered](#chase-sapphire-preferred-card) and **pay no annual fees**.
-
-For example, after receiving my Amex Platinum Card and Chase Sapphire Reserve Card I received letters in the mail that said the following:
-
-> We approved your credit card account for benefits under the Military Lending Act (MLA) and Chase policy...**We won't charge you applicable fees**, other than late fees and non-sufficient funds fees...We review your account annually to verify your eligibility for MLA benefits and will notify you of changes.<br>--Chase Military Servicing Team
-
-> ...because your account is eligible for reief under either the Servicemembers Civil Relief Act or the Military Lending Act, **we will continue to waive your Annual Membership Fee** and any Additional Card Fees as long as your Account continues to qualify. Although these fees will be waived, the terms listed above are applicable and will display in future disclosures and your Cardmember Agreement.<br>--American Express Customer Care
-
-But if there are no fees for military members...then why not get a ton of cards?
-
-That's a great question! And I can't think of a good reason not to do just that. Currently I'm collectively getting **$3,585** of annual fees waived across seven different credit cards.
-
 ## How It Started
 
 > Money makes money. And the money that money makes, makes money.<br>-- Ben Franklin
@@ -52,7 +36,24 @@ Longer answer: [**The Amex Platinum Card**](#american-express-platinum-card) is 
 
 Longest answer: If you're in the military, the benefits you stand to leverage from credit cards are near endless.
 
-## Benefits For You, Plain and Simple.
+## Military Benefits
+
+While the perks afforded by the credit cards in this post are certainly decent if used optimally, the benefits of these cards goes from "hm, I think these benefits may be worth the annual fee" to "gee whiz how is this possible" if you're in the military; this is all because the **annual fees for many credit cards are waived for military members**. This is due to the [Military Lending Act](https://ncua.gov/regulation-supervision/manuals-guides/federal-consumer-financial-protection-guide/compliance-management/lending-regulations/military-lending-act-mla) (MLA) and the [Servicemembers Civil Relief Act](https://www.militaryonesource.mil/financial-legal/personal-finance/servicemembers-civil-relief-act/) (SCRA). 
+
+That's right - active duty, or national guard and reserves on 30 day active duty orders (and their military spouses!) can open top tier credit cards such as the [Amex Platinum](#american-express-platinum-card), [Amex Gold](#american-express-gold-card), [Chase Sapphire Reserve](#chase-sapphire-reserve-card), and the [Chase Sapphire Preffered](#chase-sapphire-preferred-card) and **pay no annual fees**.
+
+For example, after receiving my Amex Platinum Card and Chase Sapphire Reserve Card I received letters in the mail that said the following:
+
+> We approved your credit card account for benefits under the Military Lending Act (MLA) and Chase policy...**We won't charge you applicable fees**, other than late fees and non-sufficient funds fees...We review your account annually to verify your eligibility for MLA benefits and will notify you of changes.<br>--Chase Military Servicing Team
+
+> ...because your account is eligible for reief under either the Servicemembers Civil Relief Act or the Military Lending Act, **we will continue to waive your Annual Membership Fee** and any Additional Card Fees as long as your Account continues to qualify. Although these fees will be waived, the terms listed above are applicable and will display in future disclosures and your Cardmember Agreement.<br>--American Express Customer Care
+
+But if there are no fees for military members...then why not get a ton of cards?
+
+That's a great question! And I can't think of a good reason not to do just that. Currently I'm collectively getting **$3,585** of annual fees waived across seven different credit cards.
+
+
+## The Benefits, Plain and Simple.
 
 If you're new travel hacking or credit card points game, all this talk of card perks and points can sound daunting.
 
@@ -63,7 +64,8 @@ To simplify it all, I made a tool that generates a PDF that's custom-tailored to
 
 **Name:**
 <br>
-<input type="text">
+<label for="myInput">Name:</label>
+<input type="text" id="myInput" name="myInput"><br>
 
 **Are you in the military?**
 <br>
@@ -99,7 +101,9 @@ To simplify it all, I made a tool that generates a PDF that's custom-tailored to
 <label for="vehicle3">The BILT Card</label><br>
 
 <button onclick="genPDF()">Download PDF</button>
+
 <script src="https://unpkg.com/jspdf@latest/dist/jspdf.umd.min.js"></script>
+<script type="module" src="/assets/js/Lora-VariableFont_wght-normal.js"></script>
 <script src="/assets/js/cc_tips.js"></script>
 
 
