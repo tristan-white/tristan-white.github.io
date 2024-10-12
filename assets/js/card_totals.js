@@ -1,4 +1,4 @@
-export function setTextToToday(id) {
+function setTextToToday(id) {
     const today = new Date();
     const options = { year: 'numeric', month: 'long', day: 'numeric' };
     const formattedDate = today.toLocaleDateString(undefined, options);
@@ -6,7 +6,7 @@ export function setTextToToday(id) {
 }
 
 // calculate $ total of perks since start date
-export function platTotal(open_date, close_date, intro_bonus, first) {
+function platTotal(open_date, close_date, intro_bonus, first) {
     const start = new Date(open_date.year, open_date.month);
     let end;
     if (close_date === undefined) {
@@ -46,7 +46,7 @@ export function platTotal(open_date, close_date, intro_bonus, first) {
     }
 }
 
-export function goldTotal(open_date, close_date, intro) {
+function goldTotal(open_date, close_date, intro) {
     const start = new Date(open_date.year, open_date.month);
     let end;
     if (close_date === undefined) {
@@ -81,7 +81,7 @@ export function goldTotal(open_date, close_date, intro) {
     }
 }
 
-export function hiltonTotal(open_date, close_date, intro_bonus) {
+function hiltonTotal(open_date, close_date, intro_bonus) {
     const start = new Date(open_date.year, open_date.month);
     let end;
     if (close_date === undefined) {
@@ -106,7 +106,7 @@ export function hiltonTotal(open_date, close_date, intro_bonus) {
     }
 }
 
-export function marriottTotal(open_date, close_date, intro_bonus) {
+function marriottTotal(open_date, close_date, intro_bonus) {
     const start = new Date(open_date.year, open_date.month);
     let end;
     if (close_date === undefined) {
@@ -130,7 +130,7 @@ export function marriottTotal(open_date, close_date, intro_bonus) {
     }
 }
 
-export function chaseReserveTotal(open_date, close_date, intro_bonus) {
+function chaseReserveTotal(open_date, close_date, intro_bonus) {
     const start = new Date(open_date.year, open_date.month);
     let end;
     if (close_date === undefined) {
@@ -154,3 +154,77 @@ export function chaseReserveTotal(open_date, close_date, intro_bonus) {
         annual_fees: annual_fees
     }
 }
+
+setTextToToday("today1");
+setTextToToday("today2");
+setTextToToday("today3");
+
+let start = {year: 2022, month: 5}; // month is zero indexed
+let end = {year: 2024, month: 5}; // month is zero indexed
+const gold1 = goldTotal(start, end, 800);
+document.getElementById("gold1_intro").textContent = gold1.intro;
+document.getElementById("gold1_uber").textContent = gold1.uber; 
+document.getElementById("gold1_grubhub").textContent = gold1.grubhub;
+document.getElementById("gold1_total").textContent = gold1.total;
+
+start = {year: 2022, month: 8}; // month is zero indexed
+const plat1 = platTotal(start, undefined, 1200, true);
+document.getElementById("plat1_intro").textContent = plat1.intro;
+document.getElementById("plat1_uber").textContent = plat1.uber; 
+document.getElementById("plat1_airline").textContent = plat1.airline;
+document.getElementById("plat1_hotel").textContent = plat1.hotel;
+document.getElementById("plat1_saks").textContent = plat1.saks;
+document.getElementById("plat1_lounge").textContent = plat1.lounge;
+document.getElementById("plat1_total").textContent = plat1.total;
+
+start = {year: 2024, month: 1}; // month is zero indexed
+const plat2 = platTotal(start, undefined, 250, false);
+document.getElementById("plat2_intro").textContent = plat2.intro;
+document.getElementById("plat2_uber").textContent = plat2.uber; 
+document.getElementById("plat2_airline").textContent = plat2.airline;
+document.getElementById("plat2_hotel").textContent = plat2.hotel;
+document.getElementById("plat2_saks").textContent = plat2.saks;
+document.getElementById("plat2_total").textContent = plat2.total;
+
+start = {year: 2024, month: 5}; // month is zero indexed
+const plat3 = platTotal(start, undefined, 500, false);
+document.getElementById("plat3_intro").textContent = plat3.intro;
+document.getElementById("plat3_uber").textContent = plat3.uber; 
+document.getElementById("plat3_airline").textContent = plat3.airline;
+document.getElementById("plat3_hotel").textContent = plat3.hotel;
+document.getElementById("plat3_saks").textContent = plat3.saks;
+document.getElementById("plat3_total").textContent = plat3.total;
+
+start = {year: 2024, month: 6}; // month is zero indexed
+const gold2 = goldTotal(start, undefined, 0);
+document.getElementById("gold2_uber").textContent = gold2.uber; 
+document.getElementById("gold2_grubhub").textContent = gold2.grubhub;
+document.getElementById("gold2_resy").textContent = gold2.resy;
+document.getElementById("gold2_dunkin").textContent = gold2.dunkin;
+document.getElementById("gold2_total").textContent = gold2.total;
+
+start = {year: 2024, month: 7}; // month is zero indexed
+const hilton = hiltonTotal(start, undefined, 0);
+document.getElementById("hilton_airline").textContent = hilton.airline;
+document.getElementById("hilton_hotel").textContent = hilton.hotel;
+document.getElementById("hilton_total").textContent = hilton.total;
+
+start = {year: 2024, month: 8}; // month is zero indexed
+const marriott = marriottTotal(start, undefined, 0);
+document.getElementById("marriott_dining").textContent = marriott.dining;
+document.getElementById("marriott_hotel").textContent = marriott.hotel;
+document.getElementById("marriott_total").textContent = marriott.total;
+
+start = {year: 2024, month: 0} // month is zero indexed
+const chase_reserve = chaseReserveTotal(start, undefined, 900);
+document.getElementById("chase_reserve_travel").textContent = chase_reserve.travel;
+document.getElementById("chase_reserve_lounge").textContent = chase_reserve.lounge;
+document.getElementById("chase_reserve_total").textContent = chase_reserve.total;
+
+const grand_total = plat1.total + plat2.total + plat3.total + gold1.total + gold2.total + hilton.total + marriott.total + chase_reserve.total;
+
+document.getElementById("grand-total").textContent = `Grand Total: $${grand_total}`;
+document.getElementById("saved-money").textContent = `$${grand_total}`;
+
+const annual_fees = plat1.annual_fees + plat2.annual_fees + plat3.annual_fees + gold1.annual_fees + gold2.annual_fees + hilton.annual_fees + marriott.annual_fees + chase_reserve.annual_fees;
+document.getElementById("annual-fees").textContent = `$${annual_fees}`;
