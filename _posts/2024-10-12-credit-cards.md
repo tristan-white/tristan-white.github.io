@@ -179,6 +179,33 @@ To simplify it all, I made a tool that generates a PDF that's custom-tailored to
 <iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="/assets/graphs/cards.html" height="525" width="100%"></iframe>
  -->
 
+### Platinum Card Galore
+
+| Annual Benefits | 1 Plat | 2 Plats | 3 Plats |
+|---------|--------|---------|---------|
+| Hotel Credit | $200 | $400 | $600 |
+| Airline Credit | $200 | $400 | $600 |
+| Digital Entertainment | $240 | $480 | $720 |
+| Uber Cash | $200 | $400 | $600 |
+| Saks Fifth Ave | $100 | $200 | $300 |
+
+![](https://militarymoneymanual.com/wp-content/uploads/2020/03/image-1_Original-768x1024.jpg){: .right width="972" height="589" .w-50 .normal}
+
+I don't know why this is possible/allowed, but to my knowledge, there is no limit on the number of platinum cards and individual can have.
+
+But why get more than one platinum card? 
+
+Good question - and there really isn't any good reason to have more than one **if** you are paying the annual fees for them...but if you're in the military you're not. That means that you can receive **every platinum card benefit times the number of platinum cards you have**. 
+
+And there's no limit to how many you have. This picture (right) is of all the credit cards of a military member who's been at the credit card game for awhile.[^2]
+
+
+#### How to Open More Platinum Cards
+
+Unfortunately, you can't simply call Amex and ask for ten more [Platinum](#american-express-platinum-card) cards. After your first [Platinum](#american-express-platinum-card) card, you get more by upgrading lower tier cards in the same "family" to [Platinum](#american-express-platinum-card), ie the [Green](#american-express-green-card) and [Gold](#american-express-gold-card) card. Once you hold either of these cards for a year, you can call the number on the back of the card and ask to upgrade the card to [Platinum](#american-express-platinum-card). The card number doesn't change, but you do get shipped a new platinum card to replace your [Gold](#american-express-gold-card) or [Green](#american-express-green-card) card. After upgrading, you can immediately open a new [Gold](#american-express-gold-card) or [Green](#american-express-green-card) to replace the one you just upgraded to [Platinum](#american-express-platinum-card).
+
+Rinse and repeat next year.
+
 ## What I Would Do Differently
 
 If I could start my credit card journey over again, I'd do a couple things differently. If you're just beginning to explore high-end credit cards, I'd consider these tips to maximize benefits.
@@ -238,7 +265,7 @@ If you're completely sold out on getting tons of credit cards, I'd check out [th
 
 ---
 
-### [American Express Green Card](#american-express-green-card)
+### [American Express Green Card](https://americanexpress.com/en-us/referral/gold-card?ref=TRIStWt793&XL=MIANS)
 
 ![](https://icm.aexp-static.com/acquisition/card-art/NUS000000274_480x304_straight_withname.png){: .right}
 
@@ -345,5 +372,6 @@ If you're completely sold out on getting tons of credit cards, I'd check out [th
 ---
 
 [^1]: This perk was added to the Gold Card in August 2024
+[^2]: [The 32 Credit Cards I Have Right Now](https://militarymoneymanual.com/current-credit-cards/)
 
 <script src="/assets/js/card_totals.js"></script>

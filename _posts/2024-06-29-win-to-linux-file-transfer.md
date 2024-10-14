@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Windows to Linux File Transfers
+tag: [reference]
 ---
 
 Transferring files from windows to linux can be annoying. Anyway you do it requires remembering some command line options for whatever tool you're using, which is why this post is being made as a reference for myself.

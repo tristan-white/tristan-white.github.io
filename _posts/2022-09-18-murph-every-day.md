@@ -2,6 +2,7 @@
 layout: post
 title: Murph Every Day
 description: I did a murph each day for a month.
+tag: [health]
 ---
 
 The [Murph](https://en.wikipedia.org/wiki/Michael_P._Murphy#Murph_workout) Workout:

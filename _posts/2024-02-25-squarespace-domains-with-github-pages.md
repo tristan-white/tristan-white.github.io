@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Custom Squarespace Domains with GitHub Pages
-category: computer
+tag: [website]
 ---
 Github Pages will host anyone's website for free, as long as it is statically generated (ie you aren't doing any fancy backend stuff like interacting with databases).
 

@@ -2,7 +2,6 @@
 layout: post
 title: Tar and Netcat
 description: How to use tar and nc to dump a file system from embedded devices.
-category: computer
 ---
 
 ![](https://imgs.xkcd.com/comics/tar.png)

@@ -4,6 +4,7 @@ title: Mermaid for Jekyll
 description: How to use Mermaid graphs in statically generated sites. 🧜‍♀️
 mermaid: true
 image: https://static.packt-cdn.com/products/9781801078023/graphics/image/Figure_6.49_B17306.jpg
+tag: [website]
 ---
 
 ```mermaid

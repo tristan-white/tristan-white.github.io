@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Travel Hacking with Network and Data Analysis
+image: https://images.unsplash.com/photo-1502920514313-52581002a659?q=80&w=2067&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+tag: [travel hacking]
 ---
 American Express likes to flaunt the fact that Platinum Card members receive a $200 hotel credit annually. It certainly is a great perk, but does it actually help you save money while traveling, or just entice you to spend more?
 

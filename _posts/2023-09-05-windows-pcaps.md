@@ -1,7 +1,6 @@
 ---
 layout: post
 title: packet captures with a native windows binary
-category: computer
 ---
 Windows doesn't have tcpdump, so if you want to create a .pcap file from a packet capture, the easiest method is to download Wireshark or some other third party software. But it's still possible to create a pcap using native files installed on Windows - there's just a few more steps.
 
