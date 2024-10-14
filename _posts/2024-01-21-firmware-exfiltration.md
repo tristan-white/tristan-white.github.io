@@ -2,6 +2,7 @@
 layout: post
 title: firmware exfiltration
 category: computer
+image: https://img.youtube.com/vi/fxTVpxTXwBg/maxresdefault.jpg
 ---
 I started learning about hardware hacking about a year ago. One topic I've found interesting is firmware extraction. I bought a router from Goodwill to practice ripping firmware off it, but found that there weren't a lot of videos online about how extracting firmware from start to finish. Additionally, I couldn't find any information about exfiltrating data over ethernet (which is about 1000x faster than over UART), so I made a video showing how to do it. Here it is, along with a outline for the entire process. Hope it helps!
 

@@ -3,6 +3,8 @@ title: Credit Card Bonanza
 description: Extreme travel hacking for fun and profit 💳💸
 permalink: cards
 pin: true
+image: https://upgradedpoints.com/wp-content/uploads/2022/09/Amex-Credit-Cards-and-Chase-Credit-Cards-Upgraded-Points-LLC-Large.jpg
+tags: [travel hacking]
 ---
 
 In 2022 I began diving into the credit card points game, and let me tell you: **it got wild**.
