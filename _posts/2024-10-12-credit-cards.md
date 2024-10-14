@@ -197,7 +197,13 @@ But why get more than one platinum card?
 
 Good question - and there really isn't any good reason to have more than one **if** you are paying the annual fees for them...but if you're in the military you're not. That means that you can receive **every platinum card benefit times the number of platinum cards you have**. 
 
+For me, the biggest reason to do this is the Uber Cash and the Airline Credit. I don't Uber much, but Uber Cash can be used with Uber Eats as well, and if you order for pickup instead of delivery, it's about the same price as ordering at the retaurant. This effectively makes the Uber Credit a dining credit.
+
 And there's no limit to how many you have. This picture (right) is of all the credit cards of a military member who's been at the credit card game for awhile.[^2]
+
+> Most Amex Platinum holders don't use most or any of their "Airline Credit" because it can typically only be applied to incidentals such as choosing a seat, checked bags, in-flight snacks, etc. But a little known fact is that you can also use this credit towards the [United Travel Bank](https://www.united.com/en/us/fly/mileageplus/travel-bank.html) (ie a pool of money tied to your United account to use whenever you want). Therefore, for every platinum card you have, you can receive $200/year towards flying United.
+{: .prompt-tip}
+
 
 
 #### How to Open More Platinum Cards
@@ -224,7 +230,7 @@ If you're completely sold out on getting tons of credit cards, I'd check out [th
 
 ## Referral Links
 
-> If you found any information on this page helpful and have decided to get any of the credit cards I mentioned, I would greatly appreciate it if you would consider using one of the below refferal links to apply for your card! By using my links, I (and for some of the cards, yourself included) will receive a referral point bonus. **I will be converting any points I receive from referrals to cash and donating 100% to a [charity](https://www.africanewlife.org/) for children in Rwanda.** Using these links as a card applicant is no different than the ordinary application links and will not affect your application in any way. Thanks!
+> If you found any information on this page helpful and have decided to get any of the credit cards I mentioned, I would greatly appreciate it if you would consider using one of the below refferal links to apply for your card! By using my links, I (and for some of the cards, yourself included) will receive a referral point bonus. I enjoy finding ways to travel cheaply and sharing that information with others; this page was not created for profit. **I will be converting any points I receive from referrals to cash and donating 100% to a [charity](https://www.africanewlife.org/) for children in Rwanda.** Using these links as a card applicant is no different than the ordinary application links and will not affect your application in any way. Thanks!
 {: .prompt-tip}
 
 ---
