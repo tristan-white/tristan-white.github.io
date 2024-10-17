@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Comments Have Arrived 🎉
+tag: website
 ---
 
 Huzzah, I have finally added the commenting feature (see bottom of post pages). You now have a place for your hot takes or insightful responses where you can be confident only a tiny fraction of the internet will see them. 
