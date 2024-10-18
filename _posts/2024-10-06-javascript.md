@@ -1,5 +1,6 @@
 ---
 title: Javascript
+description: I finally learned it.
 layout: post
 ---
 

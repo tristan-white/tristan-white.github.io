@@ -1,6 +1,7 @@
 ---
 layout: post
 title: mitmproxy
+description: A tool I wish I learned before burp suite.
 tag: [hacking]
 ---
 I've found that sometimes "being good" at computer security is just about knowing the right tool for the right job, so occasionally I'll make a post like this one to evangelize tools I've found very helpful that I think will help others ho are growing their offensive security toolset.

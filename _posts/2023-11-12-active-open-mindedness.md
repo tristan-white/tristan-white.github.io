@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Active Open-Mindedness
+description: A quality I highly admire in people.
 tag: [books]
 ---
 

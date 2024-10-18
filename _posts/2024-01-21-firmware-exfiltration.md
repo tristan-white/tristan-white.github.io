@@ -1,6 +1,7 @@
 ---
 layout: post
-title: firmware exfiltration
+title: Firmware Exfiltration
+description: A detailed account of my first foray into hardware hacking (on a router from Goodwill).
 image: https://img.youtube.com/vi/fxTVpxTXwBg/maxresdefault.jpg
 tag: [hacking]
 ---
