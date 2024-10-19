@@ -3,7 +3,7 @@ layout: post
 title: 'Ghidra Shared Projects: SRE Collaboration'
 description: A quick start guide to get your Ghidra server up and running.
 image: https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/Installing-Ghidra-in-Linux.jpg
-tag: [hacking]
+tag: [ghidra, reverse engineering]
 ---
 To start a shared project in Ghidra you'll need a Ghidra server. How do you make or start one?
 

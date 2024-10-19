@@ -23,10 +23,12 @@ The ability to execute a ghidra script on all the binareis from a devices is par
 
 The headless anaylzer binary, `analyzeHeadless`, is in the `support` directory of the unzipped [ghidra zip file](https://github.com/NationalSecurityAgency/ghidra/releases). Instructions to use it are in the same directory in `analyzeHeadlessREADME.html`, or you can read them online [here](https://static.grumpycoder.net/pixel/support/analyzeHeadlessREADME.html).
 
-Those instructions are well written and have all the info you need to use `analyzeHeadless`, but here are some common actions for easy reference:
+Those instructions are well written and have all the info you need to use `analyzeHeadless`, but here are some common actions for easy reference.
+
+![](/assets/images/ghidra_project_btn.png)
+_Unsure of your ghidra project's path? Open the GUI and use this button._
 
 - recursively import a directory into a project:
-
 
 ```bash
 ./analyzeHeadless <ghidra_project_path> -import <directory_path> <project_name> -recursive
