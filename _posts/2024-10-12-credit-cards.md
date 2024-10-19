@@ -233,11 +233,9 @@ If you're completely sold out on getting tons of credit cards, I'd check out [th
 > If you found any information on this page helpful and have decided to get any of the credit cards I mentioned, I would greatly appreciate it if you would consider using one of the below refferal links to apply for your card! By using my links, I (and for some of the cards, yourself included) will receive a referral point bonus. I enjoy finding ways to travel cheaply and sharing that information with others; this page was not created for profit. **I will be converting any points I receive from referrals to cash and donating 100% to a [charity](https://www.africanewlife.org/) for children in Rwanda.** Using these links as a card applicant is no different than the ordinary application links and will not affect your application in any way. Thanks!
 {: .prompt-tip}
 
----
-
 ### [American Express Platinum Card](https://americanexpress.com/en-us/referral/platinum-card?ref=TRIStWpHU2&XL=MIANS)
 
-![](https://icm.aexp-static.com/acquisition/card-art/NUS000000237_480x304_straight_withname.png){: .right}
+![](https://icm.aexp-static.com/acquisition/card-art/NUS000000237_480x304_straight_withname.png){: .right .w-50}
 
 - Massive welcome point bonus
 - The Global Lounge Collection
@@ -255,7 +253,7 @@ If you're completely sold out on getting tons of credit cards, I'd check out [th
 
 ### [American Express Gold Card](https://americanexpress.com/en-us/referral/gold-card?ref=TRIStWt793&XL=MIANS)
 
-![](https://icm.aexp-static.com/acquisition/card-art/NUS000000174_480x304_straight_withname.png){: .right}
+![](https://icm.aexp-static.com/acquisition/card-art/NUS000000174_480x304_straight_withname.png){: .right .w-50}
 
 - Massive welcome bonus
 - $120 Uber Cash
@@ -267,13 +265,12 @@ If you're completely sold out on getting tons of credit cards, I'd check out [th
 
 <br>
 <br>
-<br>
 
 ---
 
 ### [American Express Green Card](https://americanexpress.com/en-us/referral/gold-card?ref=TRIStWt793&XL=MIANS)
 
-![](https://icm.aexp-static.com/acquisition/card-art/NUS000000274_480x304_straight_withname.png){: .right}
+![](https://icm.aexp-static.com/acquisition/card-art/NUS000000274_480x304_straight_withname.png){: .right .w-50}
 
 - The [original Amex Travel Card](https://www.americanexpress.com/en-us/credit-cards/credit-intel/amex-green-card-benefits/)
 - Large welcome point bonus
@@ -291,7 +288,7 @@ If you're completely sold out on getting tons of credit cards, I'd check out [th
 
 ### [American Express Bonvoy Brilliant Card](#american-express-bonvoy-brilliant-card)
 
-![Bonvoy Brilliant](https://icm.aexp-static.com/acquisition/card-art/NUS000000313_480x304_straight_withname.png){: .right}
+![Bonvoy Brilliant](https://icm.aexp-static.com/acquisition/card-art/NUS000000313_480x304_straight_withname.png){: .right .w-50}
 
 - Annual Free Night
 - [Platinum Elite Status](https://www.marriott.com/loyalty/member-benefits/platinum.mi)
@@ -303,13 +300,12 @@ If you're completely sold out on getting tons of credit cards, I'd check out [th
 <br>
 <br>
 <br>
-<br>
 
 ---
 
 ### [Hilton Honors American Express Aspire Card](#hilton-honors-american-express-aspire-card)
 
-![](https://icm.aexp-static.com/acquisition/card-art/NUS000000329_480x304_straight_withname.png){: .right}
+![](https://icm.aexp-static.com/acquisition/card-art/NUS000000329_480x304_straight_withname.png){: .right .w-50}
 
 - [Diamond Status](https://www.hilton.com/en/hilton-honors/member-benefits/) (Highest)
 - Annual Free Night
@@ -327,7 +323,7 @@ If you're completely sold out on getting tons of credit cards, I'd check out [th
 
 ### [Chase Sapphire Reserve Card](https://www.referyourchasecard.com/19o/PESUKFVCE7)
 
-![](/assets/images/sapphire_reserve_card.png){: .right}
+![](/assets/images/sapphire_reserve_card.png){: .right .w-50}
 
 - Massive welcome point bonus
 - $300 Travel Credit / Year
@@ -344,7 +340,7 @@ If you're completely sold out on getting tons of credit cards, I'd check out [th
 
 ### [Chase Sapphire Preferred Card](https://www.referyourchasecard.com/19o/PESUKFVCE7)
 
-![](/assets/images/sapphire_preferred_card.png){: .right}
+![](/assets/images/sapphire_preferred_card.png){: .right .w-50}
 
 - Massive welcome point bonus
 - $50 Chase Travel Hotel Credit
@@ -361,8 +357,9 @@ If you're completely sold out on getting tons of credit cards, I'd check out [th
 
 ### [The BILT Card](https://bilt.page/r/QPL4-I3IR)
 
-![](https://www.biltrewards.com/assets/bilt-card-theo.jpg){: .right w="480"}
+![](https://www.biltrewards.com/assets/bilt-card-theo.jpg){: .right .w-50}
 
+- Get points for money you pay on rent
 - No annual fee!
 
 <br>
