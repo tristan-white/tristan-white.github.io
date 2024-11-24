@@ -355,6 +355,8 @@ If you're completely sold out on getting tons of credit cards, I'd check out [th
 
 ---
 
+<!--
+
 ### [The BILT Card](https://bilt.page/r/QPL4-I3IR)
 
 ![](https://www.biltrewards.com/assets/bilt-card-theo.jpg){: .right .w-50}
@@ -373,6 +375,7 @@ If you're completely sold out on getting tons of credit cards, I'd check out [th
 <br>
 
 ---
+-->
 
 [^1]: This perk was added to the Gold Card in August 2024
 [^2]: [The 32 Credit Cards I Have Right Now](https://militarymoneymanual.com/current-credit-cards/)
