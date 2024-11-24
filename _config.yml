@@ -63,7 +63,7 @@ analytics:
   goatcounter:
     id: twhite # fill in your GoatCounter ID
   umami:
-    id: ec1a5570-0f67-4332-9f77-c626d068299d
+    id: 99a3482b-b191-4dbf-99d8-37679e8b1065
     domain: "https://tristanwhite.me"
   matomo:
     id: # fill in your Matomo ID
