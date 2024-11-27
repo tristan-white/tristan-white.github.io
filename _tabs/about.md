@@ -44,8 +44,3 @@ order: 4
 - [ ] visit Machu Pichu
 - [ ] hike in Patagonia
 - [ ] travel the world (<a target="_blank" href="/assets/graphs/world-travel.html">in progress</a>)
-- [ ] make a difference
-=======
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
->>>>>>> v7.1.1
