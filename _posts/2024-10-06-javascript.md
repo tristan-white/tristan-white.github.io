@@ -1,6 +1,6 @@
 ---
 title: Javascript
-description: I finally learned it.
+description: An inevitable meeting.
 layout: post
 ---
 

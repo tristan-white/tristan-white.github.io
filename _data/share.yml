@@ -13,6 +13,10 @@ platforms:
   - type: Telegram
     icon: "fab fa-telegram"
     link: "https://t.me/share/url?url=URL&text=TITLE"
+  
+  - type: Reddit
+    icon: "fa-brands fa-square-reddit"
+    link: "https://www.reddit.com/submit?url=URL&title=TITLE"
 
   # Uncomment below if you need to.
   #
@@ -41,9 +45,6 @@ platforms:
   #   icon: "fa-brands fa-bluesky"
   #   link: "https://bsky.app/intent/compose?text=TITLE%20URL"
   #
-  # - type: Reddit
-  #   icon: "fa-brands fa-square-reddit"
-  #   link: "https://www.reddit.com/submit?url=URL&title=TITLE"
   #
   # - type: Threads
   #   icon: "fa-brands fa-square-threads"
