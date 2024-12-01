@@ -26,7 +26,8 @@ Now you can create a shared project! Here's a gif showing how:
 
 <div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/qyCbhDOnIuwXuKu0WL" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
 
-NOTE: the first time you log in with a new user, the default password is "changeme". You will immediately be prompted to change this password after using it.
+> The first time you log in with a new user, the default password is "changeme". You will immediately be prompted to change this password after using it.
+{: .prompt-tip}
 
 ---
 [^1]: A separate installation of Ghidra isn't necessary, but I think it's a good idea. Many people (myself included) switch to new versions of Ghidra by simply replacing their old Ghidra installation directory with a copy of the newer Ghidra version. By creating a separate directory for your Ghidra server, you'll prevent yourself from accidentally deleting your instance of the Ghidra server and its configuration.
