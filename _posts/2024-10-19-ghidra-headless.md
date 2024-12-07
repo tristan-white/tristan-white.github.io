@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Ghidra's Headless Analyzer
-description: RE faster.
+description: Software reverse engineering made faster.
+image: https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/Installing-Ghidra-in-Linux.jpg
 tag: [ghidra, reverse engineering]
 ---
 

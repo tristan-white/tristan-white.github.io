@@ -2,7 +2,7 @@
 title: Credit Card Bonanza
 description: Extreme travel hacking for fun and profit 💳💸
 permalink: cards
-pin: true
+pin: True
 image: https://upgradedpoints.com/wp-content/uploads/2022/09/Amex-Credit-Cards-and-Chase-Credit-Cards-Upgraded-Points-LLC-Large.jpg
 tags: [travel hacking]
 ---
@@ -71,7 +71,8 @@ Here's a quick break down of every credit card perk, and how much value I've red
 
 | Card Perk | Redeemed Value ($) |
 |-----------|--------------------|
-| Hotel Credit | <span id="hilton_hotel"></span> |
+| Free Hotel Night | <span id="hilton_hotel"></span> |
+| Resort Credit | <span id="hilton_resort"></span> |
 | Airline Credit | <span id="hilton_airline"></span> |
 | **Total** | <strong id="hilton_total"></strong> |
 
@@ -79,7 +80,7 @@ Here's a quick break down of every credit card perk, and how much value I've red
 
 | Card Perk | Redeemed Value ($) |
 |-----------|--------------------|
-| Hotel Credit | <span id="marriott_hotel"></span> |
+| Free Hotel Night | <span id="marriott_hotel"></span> |
 | Dining Credit | <span id="marriott_dining"></span> |
 | **Total** | <strong id="marriott_total"></strong> |
 
@@ -203,8 +204,6 @@ And there's no limit to how many you have. This picture (right) is of all the cr
 
 > Most Amex Platinum holders don't use most or any of their "Airline Credit" because it can typically only be applied to incidentals such as choosing a seat, checked bags, in-flight snacks, etc. But a little known fact is that you can also use this credit towards the [United Travel Bank](https://www.united.com/en/us/fly/mileageplus/travel-bank.html) (ie a pool of money tied to your United account to use whenever you want). Therefore, for every platinum card you have, you can receive $200/year towards flying United.
 {: .prompt-tip}
-
-
 
 #### How to Open More Platinum Cards
 

@@ -94,12 +94,15 @@ function hiltonTotal(open_date, close_date, intro_bonus) {
     const month_delta = (end.getFullYear() - start.getFullYear()) * 12 + (end.getMonth() - start.getMonth());
     // free night at any hilton each 12 months, starting @ date of opening card
     const hotelCredit = 200 * (Math.floor(month_delta / 12) + 1);
+    // resort credit ($200 twice each calendar yr; Jan-Jun and Jul-Dec)
+    const resortCredit = 200 * (Math.floor(month_delta / 6) + 1);
     // $50 every quarter
     const airline = 50 * (Math.floor(month_delta / 3) + 1);
-    const total = airline + hotelCredit;
+    const total = airline + hotelCredit + resortCredit;
     const annual_fees = 550 + (Math.floor(month_delta / 12) + 1);
     return {
         hotel: hotelCredit,
+        resort: resortCredit,
         airline: airline,
         total: total,
         annual_fees: annual_fees
@@ -207,6 +210,7 @@ start = {year: 2024, month: 7}; // month is zero indexed
 const hilton = hiltonTotal(start, undefined, 0);
 document.getElementById("hilton_airline").textContent = hilton.airline;
 document.getElementById("hilton_hotel").textContent = hilton.hotel;
+document.getElementById("hilton_resort").textContent = hilton.resort;
 document.getElementById("hilton_total").textContent = hilton.total;
 
 start = {year: 2024, month: 8}; // month is zero indexed

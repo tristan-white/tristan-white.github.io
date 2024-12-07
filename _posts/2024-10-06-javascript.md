@@ -1,6 +1,7 @@
 ---
 title: Javascript
 description: An inevitable meeting.
+image: https://www.infoworld.com/wp-content/uploads/2024/06/shutterstock_1361674454-100939444-orig.jpg?resize=1024%2C684&quality=50&strip=all
 layout: post
 ---
 

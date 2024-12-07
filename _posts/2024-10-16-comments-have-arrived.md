@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Comments Have Arrived 🎉
+description: Yap away.
 tag: website
 ---
 
