@@ -1,11 +1,9 @@
 ---
 # the default layout is 'page'
-title: Hello! 👋
+title: Hello! 👋 I'm Tristan, nice to meet you.
 icon: fas fa-info-circle
 order: 4
 ---
-
-I'm Tristan, nice to meet you!
 
 I came across a [book](https://youtu.be/vyVpRiqOvt4?t=93) in 2022 that convinced me of the merit of [showing your work](https://youtu.be/vyVpRiqOvt4?t=91). Shortly thereafter, I created this website to document my thoughts so that I (and perhaps others) may benefit from them in the future.
 
@@ -21,7 +19,7 @@ Right now, posts on this site primarily revolve around computer-related topics (
 - Coding during the [Advent of Code](/posts/aoc24/) 🎄
 - Reading a [book](https://tristanwhite.me/books) 📚
 - Working on the [OSCP](https://www.offsec.com/courses/pen-200/) cert 👨‍💻
-- Working as a [Cyber Warfare Engineer](https://youtu.be/k_z_K8a4tuM?si=ixGbbrxtarS3bETN) in the Navy 🧙‍♂️
+- Working as a [Cyber Warfare Engineer](https://youtu.be/k_z_K8a4tuM?si=ixGbbrxtarS3bETN) in the Navy ⚓
 - Learning Spanish 🇪🇸
 - ~~[Training](https://www.strava.com/athletes/tristanwhite) to a run a 3.5 hr marathon 🏃‍♂️~~ 27OCT2024 ✅
 
