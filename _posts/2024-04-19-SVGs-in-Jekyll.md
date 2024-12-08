@@ -2,7 +2,6 @@
 layout: post
 title: SVGs for Jekyll
 description: How to add SVGs to statically generated sites.
-category: computer
 tag: [website]
 ---
 

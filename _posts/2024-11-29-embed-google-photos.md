@@ -5,6 +5,7 @@ image: https://lh3.googleusercontent.com/pw/AP1GczMCiRJmXjcSJuLDsbjfGXjq0uCELeFY
 tags: [website]
 ---
 
+
 It's easy to share google photos with others, but it's not simple to embed them in blogs or personal websites.
 
 The website [labnol.org has a tool](https://www.labnol.org/embed/google/photos/) that allows you to easily embed google photos, but in my experiene it occasionally doesn't work. Additionally, sometimes you have to complete google captchas that can be pretty time consuming if you're trying to generate embed links for lots of photos.
@@ -69,3 +70,5 @@ node script.js https://photos.app.goo.gl/5w3mZ4PX1NfYNnmi8
 # Output:
 # https://lh3.googleusercontent.com/pw/AP1GczMCiRJmXjcSJuLDsbjfGXjq0uCELeFYvK80khmmEHYlm_TJ7Ehthbv5U2xQ1UI75Tody0zTCAEYizetStVgiZH9Kr6J6moJxz8sczE6k8LDJLeYC8_L=w2400
 ```
+> Fun Fact: I took this photo on Thanksgiving in Spain while studying abroad in València. I submitted it to a random travel blog that was having a "scholarship photo contest" for anyone in college. Nine months later I was contacted and told I had won, and received $500.
+{: .prompt-tip}

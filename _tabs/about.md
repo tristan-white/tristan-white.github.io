@@ -1,15 +1,23 @@
 ---
 # the default layout is 'page'
+title: Hello! 👋
 icon: fas fa-info-circle
 order: 4
 ---
-## Quick Facts
+
+I'm Tristan, nice to meet you!
+
+I came across a [book](https://youtu.be/vyVpRiqOvt4?t=93) in 2022 that convinced me of the merit of [showing your work](https://youtu.be/vyVpRiqOvt4?t=91). Shortly thereafter, I created this website to document my thoughts so that I (and perhaps others) may benefit from them in the future.
+
+Right now, posts on this site primarily revolve around computer-related topics (since that's where most of my time goes), but I plan on writing about my many other interests as soon as I find the time. Feel free to look around!
+
+### Quick Facts
 - Born in 1999 in Virginia
-- University of Virginia alumnus
+- University of Virginia Alumnus
 - [INTJ](https://www.16personalities.com/intj-personality)
 - 1 wing 9
 
-## Right now I am...
+### Right now I am...
 - Coding during the [Advent of Code](/posts/aoc24/) 🎄
 - Reading a [book](https://tristanwhite.me/books) 📚
 - Working on the [OSCP](https://www.offsec.com/courses/pen-200/) cert 👨‍💻
