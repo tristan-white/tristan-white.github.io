@@ -10,7 +10,8 @@ I came across a [book](https://youtu.be/vyVpRiqOvt4?t=93) in 2022 that convinced
 Right now, posts on this site primarily revolve around computer-related topics (since that's where most of my time goes), but I plan on writing about my many other interests as soon as I find the time. Feel free to look around!
 
 ### Quick Facts
-- Born in 1999 in Virginia
+- Born in 1999
+- From Virginia
 - University of Virginia Alumnus
 - [INTJ](https://www.16personalities.com/intj-personality)
 - 1 wing 9
