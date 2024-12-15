@@ -2,7 +2,7 @@
 title: Webscraping
 description: I learned how to use Javascript to scrape flight data.
 image: https://images.unsplash.com/photo-1489389944381-3471b5b30f04?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
-tags: [data science, web scraping, travel hacking]
+tags: [data science, web scraping, travel hacking, coding]
 ---
 
 I've been wanting to learn how to get better at webscraping and javascript so today I wanted try to write a program to webscrape in javascript.

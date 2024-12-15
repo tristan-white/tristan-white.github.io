@@ -3,6 +3,7 @@ title: Javascript
 description: An inevitable meeting.
 image: https://www.infoworld.com/wp-content/uploads/2024/06/shutterstock_1361674454-100939444-orig.jpg?resize=1024%2C684&quality=50&strip=all
 layout: post
+tags: [coding]
 ---
 
 I've managed to stay away from javascript trhoughout a whole computer science degree and two years as a software engineer but every once in a while something pops up that requires it and I'll wish I was more familiar with it. So I went and learned a bit of JS today.
