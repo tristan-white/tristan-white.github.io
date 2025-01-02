@@ -1,6 +1,8 @@
 ---
 layout: post
 title: unix command line basics
+tags: [cheatsheet]
+image: https://images.unsplash.com/photo-1640552435388-a54879e72b28?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
 ---
 
 This is the document I wish I had when I started using Unix command line interfaces (CLI). There are already many beginner's guides to using a unix CLI online, but I feel most of them skip some important commands. This article assumes you already know some of the most essential commands, and how to pass arguments to commands - if not, read [this article](https://www.linuxjournal.com/content/linux-command-line-interface-introduction-guide) first. If your using a Windows machine and are new to using CLIs, note that the CLIs that come with Windows operating systems are Command Prompt and Powershell which are not Unix CLIs, but you can [install a Unix CLI on your Windows computer](https://learn.microsoft.com/en-us/windows/wsl/install) if you desire.

