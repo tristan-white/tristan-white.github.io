@@ -7,13 +7,11 @@ image: https://upgradedpoints.com/wp-content/uploads/2022/09/Amex-Credit-Cards-a
 tags: [travel hacking]
 ---
 
-In 2022 I began diving into the credit card points game, and let me tell you: **it got wild**.
-
-As of <strong id="today1"></strong> I've saved <strong id="saved-money"></strong>.
+In 2022 I began diving into the credit card points game. What started as an endeavor to get a few free perks here and there soon became method for saving some serious cash. As of <span id="today1"></span> I've saved <strong id="saved-money"></strong>. Some may say it's not worth the effort of carrying all the cards, but I think for most junior enlisted/junior officers in the military it is definitely worth it. 
 
 Here's a quick break down of every credit card perk, and how much value I've redeemed from them to date (<span id="today2"></span>):
 
-#### Amex Gold Card #1 (06/2022 - 06/2024)
+**Amex Gold Card #1 (06/2022 - 06/2024)**
 
 | Card Perk | Redeemed Value ($) |
 |-----------|--------------------|
@@ -22,7 +20,7 @@ Here's a quick break down of every credit card perk, and how much value I've red
 | Grubhub | <span id="gold1_grubhub"></span> |
 | **Total** | <strong id="gold1_total"></strong> |
 
-#### Amex Platinum Card #1 (09/2022 - present)
+Amex Platinum Card #1 (09/2022 - present)
 
 | Card Perk | Redeemed Value ($) |
 |-----------|--------------------|
@@ -34,7 +32,7 @@ Here's a quick break down of every credit card perk, and how much value I've red
 | Airport Lounges | <span id="plat1_lounge"></span> |
 | **Total** | <strong id="plat1_total"></strong> |
 
-#### Amex Platinum Card #2 (02/2024 - present)
+Amex Platinum Card #2 (02/2024 - present)
 
 | Card Perk | Redeemed Value ($) |
 |-----------|--------------------|
@@ -45,7 +43,7 @@ Here's a quick break down of every credit card perk, and how much value I've red
 | Saks Fifth Ave | <span id="plat2_saks"></span> ||
 | **Total** | <strong id="plat2_total"></strong> ||
 
-#### Amex Platinum Card #3 (06/2024 - Present)
+Amex Platinum Card #3 (06/2024 - Present)
 
 | Card Perk | Redeemed Value ($) |
 |-----------|--------------------|
@@ -56,7 +54,7 @@ Here's a quick break down of every credit card perk, and how much value I've red
 | Saks Fifth Ave | <span id="plat3_saks"></span> ||
 | **Total** | <strong id="plat3_total"></strong> ||
 
-#### Amex Gold Card #2 (07/2024 - present)
+Amex Gold Card #2 (07/2024 - present)
 
 | Card Perk | Redeemed Value ($) |
 |-----------|--------------------|
@@ -67,7 +65,7 @@ Here's a quick break down of every credit card perk, and how much value I've red
 | **Total** | <strong id="gold2_total"></strong> |
 
 
-#### Amex Hilton Honors Aspire Card (08/2024 - Present)
+Amex Hilton Honors Aspire Card (08/2024 - Present)
 
 | Card Perk | Redeemed Value ($) |
 |-----------|--------------------|
@@ -76,7 +74,7 @@ Here's a quick break down of every credit card perk, and how much value I've red
 | Airline Credit | <span id="hilton_airline"></span> |
 | **Total** | <strong id="hilton_total"></strong> |
 
-#### Amex Marriott Bonvoy Brilliant Card (09/2024 - Present)
+Amex Marriott Bonvoy Brilliant Card (09/2024 - Present)
 
 | Card Perk | Redeemed Value ($) |
 |-----------|--------------------|
@@ -84,7 +82,7 @@ Here's a quick break down of every credit card perk, and how much value I've red
 | Dining Credit | <span id="marriott_dining"></span> |
 | **Total** | <strong id="marriott_total"></strong> |
 
-#### Chase Sapphire Reserve (09/2024 - Present)
+Chase Sapphire Reserve (09/2024 - Present)
 
 | Card Perk | Redeemed Value ($) |
 |-----------|--------------------|
@@ -190,7 +188,7 @@ To simplify it all, I made a tool that generates a PDF that's custom-tailored to
 | Uber Cash | $200 | $400 | $600 |
 | Saks Fifth Ave | $100 | $200 | $300 |
 
-![](https://militarymoneymanual.com/wp-content/uploads/2020/03/image-1_Original-768x1024.jpg){: .right width="972" height="589" .w-50 .normal}
+![](/assets/images/mmm_cards.jpg){: .right width="972" height="589" .w-50 .normal}
 
 I don't know why this is possible/allowed, but to my knowledge, there is no limit on the number of platinum cards and individual can have.
 
@@ -234,7 +232,7 @@ If you're completely sold out on getting tons of credit cards, I'd check out [th
 
 ### [American Express Platinum Card](https://americanexpress.com/en-us/referral/platinum-card?ref=TRIStWpHU2&XL=MIANS)
 
-![](https://icm.aexp-static.com/acquisition/card-art/NUS000000237_480x304_straight_withname.png){: .right .w-50}
+![](/assets/images/plat_card.avif){: .right .w-50}
 
 - Massive welcome point bonus
 - The Global Lounge Collection
@@ -252,7 +250,7 @@ If you're completely sold out on getting tons of credit cards, I'd check out [th
 
 ### [American Express Gold Card](https://americanexpress.com/en-us/referral/gold-card?ref=TRIStWt793&XL=MIANS)
 
-![](https://icm.aexp-static.com/acquisition/card-art/NUS000000174_480x304_straight_withname.png){: .right .w-50}
+![](/assets/images/gold_card.avif){: .right .w-50}
 
 - Massive welcome bonus
 - $120 Uber Cash
@@ -269,7 +267,7 @@ If you're completely sold out on getting tons of credit cards, I'd check out [th
 
 ### [American Express Green Card](https://americanexpress.com/en-us/referral/gold-card?ref=TRIStWt793&XL=MIANS)
 
-![](https://icm.aexp-static.com/acquisition/card-art/NUS000000274_480x304_straight_withname.png){: .right .w-50}
+![](/assets/images/green_card.avif){: .right .w-50}
 
 - The [original Amex Travel Card](https://www.americanexpress.com/en-us/credit-cards/credit-intel/amex-green-card-benefits/)
 - Large welcome point bonus
@@ -287,7 +285,7 @@ If you're completely sold out on getting tons of credit cards, I'd check out [th
 
 ### [American Express Bonvoy Brilliant Card](#american-express-bonvoy-brilliant-card)
 
-![Bonvoy Brilliant](https://icm.aexp-static.com/acquisition/card-art/NUS000000313_480x304_straight_withname.png){: .right .w-50}
+![Bonvoy Brilliant](/assets/images/bonvoy_brilliant.avif){: .right .w-50}
 
 - Annual Free Night
 - [Platinum Elite Status](https://www.marriott.com/loyalty/member-benefits/platinum.mi)
@@ -304,7 +302,7 @@ If you're completely sold out on getting tons of credit cards, I'd check out [th
 
 ### [Hilton Honors American Express Aspire Card](#hilton-honors-american-express-aspire-card)
 
-![](https://icm.aexp-static.com/acquisition/card-art/NUS000000329_480x304_straight_withname.png){: .right .w-50}
+![](/assets/images/hilton_aspire.avif){: .right .w-50}
 
 - [Diamond Status](https://www.hilton.com/en/hilton-honors/member-benefits/) (Highest)
 - Annual Free Night

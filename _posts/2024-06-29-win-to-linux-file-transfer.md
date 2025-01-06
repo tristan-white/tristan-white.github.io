@@ -11,6 +11,17 @@ Transferring files from windows to linux can be annoying. Anyway you do it requi
 
 Here are the methods:
 
+## certutil.exe
+
+On linux box, set up the server:
+
+`python -m http.server 80`
+
+From windows box:
+
+`certutil.exe -urlcache -f http://<your ip>/<filename> <local destination path>`
+
+
 ## SMB: 
 Start server on linux:
 ```bash
