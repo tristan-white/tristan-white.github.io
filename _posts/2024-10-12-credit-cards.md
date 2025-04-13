@@ -1,5 +1,5 @@
 ---
-title: Credit Card Bonanza
+title: Military Credit Cards
 description: Extreme travel hacking for fun and profit 💳💸
 permalink: cards
 pin: True
@@ -7,7 +7,7 @@ image: https://upgradedpoints.com/wp-content/uploads/2022/09/Amex-Credit-Cards-a
 tags: [travel hacking]
 ---
 
-In 2022 I began diving into the credit card points game. What started as an endeavor to get a few free perks here and there soon became method for saving some serious cash. As of <span id="today1"></span> I've saved <strong id="saved-money"></strong>. Some may say it's not worth the effort of carrying all the cards, but I think for most junior enlisted/junior officers in the military it is definitely worth it. 
+In 2022 I began researching credit cards and learning about their perks and points. I was hoping they would help me do a little extra traveling or get something free here and there, but the more I learned, the more I began to realize that these cards can help save some serious cash (especially for US service members). As of <span id="today1"></span> I've saved <strong id="saved-money"></strong>.
 
 Here's a quick break down of every credit card perk, and how much value I've redeemed from them to date (<span id="today2"></span>):
 
@@ -92,21 +92,9 @@ Chase Sapphire Reserve (09/2024 - Present)
 
 <h4 id="grand-total"></h4>
 
-## How It Started
-
-> Money makes money. And the money that money makes, makes money.<br>-- Ben Franklin
-
-![](/assets/images/million_page.png){: .right .w-50 w="300"}
-
-In second grade I came across a children's book called *If You Made a Million*, which is essentially about how money makes money. Since then, I've always been fascinated by compound interest, passive income, travel hacking, and any other ways to put a dollar to work.
-
-Naturally, at some point I began looking into credit card "deals" to see if there were really any deals to be had. As someone who once received a paper plate award for "Most Likely to Cross a Desert for a Dollar", I was certainly going into my research with a healthy amount of skepticism. I avoid subscription fees like the plague, so would I really find any top tier credit cards worth their annual fees?
-
-**Yes.**
-
 ## Military Benefits
 
-While the perks afforded by the credit cards in this post are certainly decent if used optimally, the benefits of these cards goes from "hm, I guess these benefits really are worth the annual fee" to "gee whiz how is this possible" if you're in the military; this is all because the **annual fees for many credit cards are waived for military members**. This is due to the [Military Lending Act](https://ncua.gov/regulation-supervision/manuals-guides/federal-consumer-financial-protection-guide/compliance-management/lending-regulations/military-lending-act-mla) (MLA) and the [Servicemembers Civil Relief Act](https://www.militaryonesource.mil/financial-legal/personal-finance/servicemembers-civil-relief-act/) (SCRA). 
+While the perks afforded by the credit cards in this post are certainly decent if used optimally, the benefits of these cards goes from "hm, I guess these benefits really are worth the annual fee" to "gee whiz how is this possible" if you're in the military; this is all because the **annual fees for many credit cards are waived for military members**. This is due to the [Military Lending Act](https://ncua.gov/regulation-supervision/manuals-guides/federal-consumer-financial-protection-guide/compliance-management/lending-regulations/military-lending-act-mla) (MLA) and the [Servicemembers Civil Relief Act](https://www.militaryonesource.mil/financial-legal/personal-finance/servicemembers-civil-relief-act/) (SCRA). As a result of these programs, some American credit card companies such as American Express and Chase waive the annual fees on their credit cards.
 
 That's right - active duty, or national guard and reserves on 30 day active duty orders (and their military spouses!) can open top tier credit cards such as the [Amex Platinum](#american-express-platinum-card), [Amex Gold](#american-express-gold-card), [Chase Sapphire Reserve](#chase-sapphire-reserve-card), and the [Chase Sapphire Preffered](#chase-sapphire-preferred-card) and **pay no annual fees**.
 
@@ -120,65 +108,7 @@ But if there are no fees for military members...then why not get a ton of cards?
 
 That's a great question! And I can't think of a good reason not to do just that. As of today (<span id="today3"></span>), I've had <strong id="annual-fees"></strong> waived across all my cards.
 
-
-<!-- 
-## The Benefits, Plain and Simple.
-
-If you're new travel hacking or credit card points game, all this talk of card perks and points can sound daunting.
-
-To simplify it all, I made a tool that generates a PDF that's custom-tailored to your needs that gives simple, consolidated tips on how to save money with credit cards. To receive a personalized report, fill in the form below.
-
-> Note: This PDF generation tool is not yet supported on mobile.
-{: .prompt-warning}
-
-**Name:**
-<br>
-<label for="myInput">Name:</label>
-<input type="text" id="myInput" name="myInput"><br>
-
-**Are you in the military?**
-<br>
-<input type="radio" id="military_yes" name="in_military" value="yes">
-<label for="military_yes">Yes</label><br>
-<input type="radio" id="military_no" name="in_military" value="no">
-<label for="military_no">No</label><br>
-
-**Are you a renter / do you pay rent each month?**
-<br>
-<input type="radio" id="rent_yes" name="pays_rent" value="yes">
-<label for="military_yes">Yes</label><br>
-<input type="radio" id="rent_no" name="pays_rent" value="no">
-<label for="pays_rent">No</label><br>
-
-**Check a box for each of the following cards that you already have:**
-<br>
-<input type="checkbox" id="card1" name="card1" value="American Express Platinum Card">
-<label for="vehicle1">American Express Platinum Card</label><br>
-<input type="checkbox" id="card2" name="card2" value="American Express Gold Card">
-<label for="vehicle3">American Express Gold Card</label><br>
-<input type="checkbox" id="card2" name="card2" value="Chase Sapphire Reserve Card">
-<label for="vehicle3">American Express Green Card</label><br>
-<input type="checkbox" id="card2" name="card2" value="Chase Sapphire Reserve Card">
-<label for="vehicle3">American Express Marriott Bonvoy Brilliant Card</label><br>
-<input type="checkbox" id="card3" name="card3" value="Chase Sapphire Preferred Card">
-<label for="vehicle3">Hilton Honors American Express Aspire Card</label><br>
-<input type="checkbox" id="card3" name="card3" value="Chase Sapphire Preferred Card">
-<label for="vehicle2">Chase Sapphire Reserve Card</label><br>
-<input type="checkbox" id="card3" name="card3" value="Chase Sapphire Preferred Card">
-<label for="vehicle3">Chase Sapphire Preferred Card</label><br>
-<input type="checkbox" id="card3" name="card3" value="">
-<label for="vehicle3">The BILT Card</label><br>
-
-<button onclick="genPDF()">Download PDF</button>
-
-<script src="https://unpkg.com/jspdf@latest/dist/jspdf.umd.min.js"></script>
-<script type="module" src="/assets/js/Lora-VariableFont_wght-normal.js"></script>
-<script src="/assets/js/cc_tips.js"></script>
-
-<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="/assets/graphs/cards.html" height="525" width="100%"></iframe>
- -->
-
-### Platinum Card Galore
+### Platinum Cards
 
 | Annual Benefits | 1 Plat | 2 Plats | 3 Plats |
 |---------|--------|---------|---------|
@@ -190,7 +120,7 @@ To simplify it all, I made a tool that generates a PDF that's custom-tailored to
 
 ![](/assets/images/mmm_cards.jpg){: .right width="972" height="589" .w-50 .normal}
 
-I don't know why this is possible/allowed, but to my knowledge, there is no limit on the number of platinum cards and individual can have.
+One 
 
 But why get more than one platinum card? 
 
@@ -199,9 +129,6 @@ Good question - and there really isn't any good reason to have more than one **i
 For me, the biggest reason to do this is the Uber Cash and the Airline Credit. I don't Uber much, but Uber Cash can be used with Uber Eats as well, and if you order for pickup instead of delivery, it's about the same price as ordering at the retaurant. This effectively makes the Uber Credit a dining credit.
 
 And there's no limit to how many you have. This picture (right) is of all the credit cards of a military member who's been at the credit card game for awhile.[^2]
-
-> Most Amex Platinum holders don't use most or any of their "Airline Credit" because it can typically only be applied to incidentals such as choosing a seat, checked bags, in-flight snacks, etc. But a little known fact is that you can also use this credit towards the [United Travel Bank](https://www.united.com/en/us/fly/mileageplus/travel-bank.html) (ie a pool of money tied to your United account to use whenever you want). Therefore, for every platinum card you have, you can receive $200/year towards flying United.
-{: .prompt-tip}
 
 #### How to Open More Platinum Cards
 
@@ -225,10 +152,7 @@ For American Express cards, that order you open them matters if you want to rece
 
 If you're completely sold out on getting tons of credit cards, I'd check out [this article](https://militarymoneymanual.com/best-credit-cards-military/) written by an Air Force vet who's been at the credit card game longer than me.
 
-## Referral Links
-
-> If you found any information on this page helpful and have decided to get any of the credit cards I mentioned, I would greatly appreciate it if you would consider using one of the below refferal links to apply for your card! By using my links, I (and for some of the cards, yourself included) will receive a referral point bonus. I enjoy finding ways to travel cheaply and sharing that information with others; this page was not created for profit. **I will be converting any points I receive from referrals to cash and donating 100% to a [charity](https://www.africanewlife.org/) for children in Rwanda.** Using these links as a card applicant is no different than the ordinary application links and will not affect your application in any way. Thanks!
-{: .prompt-tip}
+## Links
 
 ### [American Express Platinum Card](https://americanexpress.com/en-us/referral/platinum-card?ref=TRIStWpHU2&XL=MIANS)
 
@@ -258,7 +182,7 @@ If you're completely sold out on getting tons of credit cards, I'd check out [th
 - 4x Points at Restaurants
 - 4x Points on Groceries
 - 1x Points on Other Purchases
-- and more
+- See all benefits [here](https://americanexpress.com/en-us/referral/gold-card?ref=TRIStWTscf&xl=cp108t)
 
 <br>
 <br>
@@ -276,6 +200,7 @@ If you're completely sold out on getting tons of credit cards, I'd check out [th
 - 3x points on Dining
 - 1x points on Other Purchases
 - $189 CLEAR Plus Credit
+- See all benefits [here](https://americanexpress.com/en-us/referral/american-express-green-card?ref=TRIStWUT58&xl=cp108t)
 
 <br>
 <br>
@@ -290,7 +215,7 @@ If you're completely sold out on getting tons of credit cards, I'd check out [th
 - Annual Free Night
 - [Platinum Elite Status](https://www.marriott.com/loyalty/member-benefits/platinum.mi)
 - $25 Dining Credit / Month
-- Marriot
+- See all benefits [here](https://americanexpress.com/en-us/referral/marriott-bonvoy?ref=TRIStWbcKc&xl=cp108t)
 
 <br>
 <br>
@@ -312,6 +237,7 @@ If you're completely sold out on getting tons of credit cards, I'd check out [th
 - 7x points on Select Travel
 - 7x points on Dining
 - 3x points on Other Purchases
+- See all benefits [here](https://americanexpress.com/en-us/referral/hilton-honors?ref=TRIStWp227&xl=cp01)
 
 <br>
 <br>
@@ -351,28 +277,6 @@ If you're completely sold out on getting tons of credit cards, I'd check out [th
 <br>
 
 ---
-
-<!--
-
-### [The BILT Card](https://bilt.page/r/QPL4-I3IR)
-
-![](https://www.biltrewards.com/assets/bilt-card-theo.jpg){: .right .w-50}
-
-- Get points for money you pay on rent
-- No annual fee!
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
----
--->
 
 [^1]: This perk was added to the Gold Card in August 2024
 [^2]: [The 32 Credit Cards I Have Right Now](https://militarymoneymanual.com/current-credit-cards/)
